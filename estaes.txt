@@ -1,2 +1,3 @@
-esta es la historia  de git
-en platzi hoy y vivo en colombia y quiero ser desarrolladora  de sofware y por eso estoy aprendiendo mucho
+esta es la historia  de GIT 
+en platzi hoy y vivo en colombia y quiero ser desarrolladora  de sofware y por eso
+ estoy aprendiendo mucho aunque es dificil pero hay que continuar
